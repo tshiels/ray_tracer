@@ -9,6 +9,6 @@ Dependencies:
 <br>
 <strong>Run Instructions: </strong>
 <br>
-`$ cd proj-rt-files`
+```$ cd proj-rt-files```
 <br>
-`$ ./ray_tracer -i <test_file.txt>`
+```$ ./ray_tracer -i <test_file.txt>```
