@@ -8,7 +8,6 @@ Dependencies:
 	- `sudo apt-get install libpng-dev`
 <br>
 <strong>Run Instructions: </strong>
+`$ cd proj-rt-files`
 <br>
-```$ cd proj-rt-files```
-<br>
-```$ ./ray_tracer -i <test_file.txt>```
+`$ ./ray_tracer -i <test_file.txt>`
