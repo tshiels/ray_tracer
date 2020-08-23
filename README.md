@@ -8,6 +8,7 @@ Dependencies:
 	- `apt-get install scons`
 - libpng-dev
 	- `sudo apt-get install libpng-dev`
+<br>
 `$ cd proj-rt-files`
 <br>
-- `$ ./ray_tracer -i <test-file>`
+`$ ./ray_tracer -i <test-file>`
